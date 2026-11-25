@@ -1,0 +1,19 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+
+# Runtime-generated File Manager data
+data/*
+!data/.gitkeep
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
